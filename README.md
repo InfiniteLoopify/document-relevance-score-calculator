@@ -80,6 +80,7 @@ Calculate Document's relevancy and ranking using tf-idf and cosine similarity on
 
 * [![Python][Python-shield]][Python-url]
 * [![Tkinter][Tkinter-shield]][Tkinter-url]
+* [![Numpy][Numpy-shield]][Numpy-url]
 * [![Nltk][Nltk-shield]][Nltk-url]
 
 
